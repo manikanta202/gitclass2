@@ -1,2 +1,2 @@
-this is my first line of code
+creating conflict from another developer
 second line in file1
