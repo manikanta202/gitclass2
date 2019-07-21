@@ -1,3 +1,3 @@
-this is first line of code in file2 - modified
+this is first line of code in file2 - modified ahead of master
 adding second line
 adding third line of code
