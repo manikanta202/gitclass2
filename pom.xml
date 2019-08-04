@@ -6,7 +6,7 @@
 
     <groupId>com.sample</groupId>
     <artifactId>LiquorStoreApp</artifactId>
-    <version>2.${v}-SNAPSHOT</version>
+    <version>3.${v}-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <dependencies>
